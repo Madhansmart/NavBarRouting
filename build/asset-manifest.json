@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MusicHunt/static/css/main.411a3c4b.chunk.css",
+    "main.js": "/MusicHunt/static/js/main.201984f8.chunk.js",
+    "main.js.map": "/MusicHunt/static/js/main.201984f8.chunk.js.map",
+    "runtime~main.js": "/MusicHunt/static/js/runtime~main.ecd0133a.js",
+    "runtime~main.js.map": "/MusicHunt/static/js/runtime~main.ecd0133a.js.map",
+    "static/css/2.39017165.chunk.css": "/MusicHunt/static/css/2.39017165.chunk.css",
+    "static/js/2.91b002f7.chunk.js": "/MusicHunt/static/js/2.91b002f7.chunk.js",
+    "static/js/2.91b002f7.chunk.js.map": "/MusicHunt/static/js/2.91b002f7.chunk.js.map",
+    "index.html": "/MusicHunt/index.html",
+    "precache-manifest.42b26b2ee31e4d58f187ecf5435b3228.js": "/MusicHunt/precache-manifest.42b26b2ee31e4d58f187ecf5435b3228.js",
+    "service-worker.js": "/MusicHunt/service-worker.js",
+    "static/css/2.39017165.chunk.css.map": "/MusicHunt/static/css/2.39017165.chunk.css.map",
+    "static/css/main.411a3c4b.chunk.css.map": "/MusicHunt/static/css/main.411a3c4b.chunk.css.map",
+    "static/media/ko.jpg": "/MusicHunt/static/media/ko.ed130e8f.jpg",
+    "static/media/logo.png": "/MusicHunt/static/media/logo.806430aa.png",
+    "static/media/song1.mp3": "/MusicHunt/static/media/song1.2b07eae0.mp3"
+  }
+}

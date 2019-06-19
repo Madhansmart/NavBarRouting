@@ -1,0 +1,44 @@
+.section{
+    margin :0;
+}
+.section .navWidth{
+  margin-left : -200px;
+}
+.section .section-aside a{
+  text-decoration: none!important;
+}
+.section .section-aside{
+    transition: 0.4s;
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    left : 0;
+    background : #333a3f;
+}
+.section .section-aside ul {
+    list-style: none;
+    margin : 0;
+    padding : 0;
+    text-align: center;
+}
+.section .section-aside ul li{
+    padding : 15px 30px;
+    color : white;
+
+}
+.section .section-aside ul .active{
+    background-color : white;
+    color : black;
+}
+.section .section-content{
+    padding : 0!important;
+    margin-left : 50px;
+    transition: 0.9s;
+}
+.section .section-aside-width{
+    margin-left: 200px;
+}
+.section .section-content .section-content-album{
+    padding-top : 20px;
+}
